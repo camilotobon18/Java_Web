@@ -1,0 +1,8 @@
+
+
+se debe agregar las librerias de conexion a la carpeta libraries para q funcione el CRUD
+Libraries, agregar biblioteca
+
+<%=(request.getAttribute("mensaje") != null ? request.getAttribute("mensaje") : "")%> 
+
+TERMINAR LOS INSERT
